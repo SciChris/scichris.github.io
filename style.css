@@ -1,5 +1,10 @@
 body{
-background-color:#808080;	
+background-color:#dddddd;	
+}
+
+h1{
+margin:0px;
+padding:10px;
 }
 
 #container{
@@ -8,17 +13,20 @@ margin:auto;
 }
 
 header{
-background-color:#000;
+background-color:#373837;
 height:100px;
 }
 
 .logo{
+margin-top:20px;
+padding:10px;
 float:left;
 color:#fff;		
 }
 
 
 .menu{
+padding:10px;
 float:right;	
 }
 
@@ -31,6 +39,7 @@ float:right;
 }
 
 .menu li {
+list-style-type: none;
     float: left;
 }
 
@@ -44,7 +53,7 @@ float:right;
 
 
 .menu li a:hover {
-    background-color: #111;
+    background-color: #2db75b;
 }
 
 .content{
