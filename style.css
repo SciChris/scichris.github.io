@@ -7,6 +7,20 @@ margin:0px;
 padding:10px;
 }
 
+h3{
+margin:0px;
+padding:10px;
+}
+
+h4{
+margin:0px;
+padding:10px;
+}
+
+p{
+padding:10px;
+}
+
 #container{
 width:960px;
 margin:auto;	
